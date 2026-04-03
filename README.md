@@ -1,0 +1,2 @@
+# web3-experiments
+Repository for experimenting with Web3 tools, blockchain interactions, and smart contract testing.
